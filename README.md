@@ -6,11 +6,6 @@ Welcome to my repository for daily-use scripts and testing environment utilities
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
@@ -25,5 +20,5 @@ This repository hosts a variety of scripts designed to automate daily tasks, str
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AhmedZeins/Scripts.git
+cd Scripts
